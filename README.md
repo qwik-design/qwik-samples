@@ -238,7 +238,7 @@ Sample Codes for <a href='https://github.com/BuilderIO/qwik'>Qwik</a>.
 
 ## Contributing
 
-We love contributions! Check out our [contributing docs](./contributing/CONTRIBUTING.md) to get more details into how to run this project, the examples, and more all locally.
+We love contributions! Check out our [contributing docs](./docs/CONTRIBUTING.md) to get more details into how to run this project, the examples, and more all locally.
 
 <a href="#toc"><small>Back to Top</small>ꜛ</a>
 
@@ -261,4 +261,4 @@ We love contributions! Check out our [contributing docs](./contributing/CONTRIBU
 ## Issues
 
 Have an issue with using the snippets, or want to suggest new snippets to help make your development life better? Log an issue in our [issues](https://github.com/qwik-design/qwik-samples/issues) tab! You can also browse older issues and discussion threads there to see solutions that may have worked for common problems.
-<a href="#toc"><small>Ba
+<a href="#toc"><small>Back to Top</small>ꜛ</a>
